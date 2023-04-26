@@ -110,16 +110,3 @@ if user_choice == 9:
 if user_choice == 10:
     print ("Thank you for trying my Algebra calculator!")
     print ("Hope you enjoyed.")
-
-        
-        
-           
-    
-
-    
-   
-    
-    
-    
-    
-
